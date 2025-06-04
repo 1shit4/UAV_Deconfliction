@@ -30,7 +30,7 @@ drone_deconfliction_sys/
 ### 1. Clone and enter the project folder
 
 ```bash
-git clone <your_repo_url>
+git clone [<your_repo_url>](https://github.com/1shit4/UAV_Deconfliction)
 cd uav_deconfliction
 ```
 
